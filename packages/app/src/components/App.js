@@ -65,8 +65,8 @@ const Container = styled.div`
   height: 100vh;
 
   > ${LeftNav} {
-    width: 18em;
-    flex-basis: 18em;
+    width: 11em;
+    flex-basis: 11em;
     flex-grow: 0;
     flex-shrink: 0;
   }
