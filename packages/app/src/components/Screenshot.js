@@ -598,7 +598,6 @@ const DescriptionContainer = styled.div`
   position: absolute;
   top: ${({y}) => y}px;
   width: 100%;
-  left: -0.5em;
   z-index: 20;
   ${AnnotateActionIcons} {
     position: absolute;
